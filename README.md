@@ -4,6 +4,7 @@
 * https://www.cdbb.cam.ac.uk/CDBBResearchBridgehead/2019ECRs/2019ECRAlwan
 * https://www.cdbb.cam.ac.uk/research/digital-infrastructure/digital-energy-estimation-tool-deet
 * https://www.sciencedirect.com/science/article/pii/S2352710221006264
+* https://doi.org/10.17863/CAM.43312
 * https://www.youtube.com/watch?v=pOs_VCtLUFE
 
 *Media reports* 
