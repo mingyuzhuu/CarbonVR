@@ -7,6 +7,7 @@
 #### Public open lecture
 * https://www.youtube.com/watch?v=pOs_VCtLUFE
 #### Articles & Media reports
+* https://www.cdbb.cam.ac.uk/news/publication-final-report-digital-energy-estimation-tool-deet
 * https://www.cdbb.cam.ac.uk/CDBBResearchBridgehead/2019ECRs/2019ECRAlwan
 * https://www.cdbb.cam.ac.uk/research/digital-infrastructure/digital-energy-estimation-tool-deet
 * https://doi.org/10.17863/CAM.43312
