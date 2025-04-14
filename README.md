@@ -1,7 +1,6 @@
 ## VR using Unreal Engine for building embodied and operational carbon
 
 #### Publications
-*Publications* 
 * https://www.sciencedirect.com/science/article/pii/S2352710221006264
   
 #### Other links
