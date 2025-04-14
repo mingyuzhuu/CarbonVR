@@ -4,7 +4,7 @@
 * https://www.sciencedirect.com/science/article/pii/S2352710221006264
   
 #### Other links
-*Public open lecture*
+*Open talk*
 * https://www.youtube.com/watch?v=pOs_VCtLUFE
   
 *Technical reports* 
